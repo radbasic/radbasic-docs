@@ -1,0 +1,24 @@
+site_name: RAD Basic Documentation
+site_url: https://docs.radbasic.dev
+theme:
+  favicon: assets/favicon.png
+  logo: assets/favicon.png
+  name: material
+  palette:
+    scheme: default          # light mode
+    primary: blue
+    accent: blue
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.suggest
+    - content.code.copy
+plugins:
+   - search
+   - awesome-nav
+nav:
+  - Home: index.md
+  - Support: support
+copyright: "RAD Basic Team 2019-2026. All Rights Reserved. Visual Basic (VB) is a trademark of the Microsoft Corporation"
+extra:
+  generator: false
