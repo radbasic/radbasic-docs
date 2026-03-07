@@ -6,8 +6,8 @@ theme:
   name: material
   palette:
     scheme: default          # light mode
-    primary: blue
-    accent: blue
+    primary: #90CAF9
+    accent: #90CAF9
   features:
     - navigation.tabs
     - navigation.sections
@@ -18,6 +18,8 @@ plugins:
    - awesome-nav
 nav:
   - Home: index.md
+  - Language Reference: language-reference
+  - Resources: resources
   - Support: support
 copyright: "RAD Basic Team 2019-2026. All Rights Reserved. Visual Basic (VB) is a trademark of the Microsoft Corporation"
 extra:
