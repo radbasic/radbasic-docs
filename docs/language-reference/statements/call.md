@@ -11,7 +11,7 @@ Call procedureName([argument1, argument2, ...])
 
 The Call statement is used to invoke Sub, Function, or Property procedures in Visual Basic. Although optional, it can improve code readability, especially when passing ByRef arguments or when you want to clearly indicate that a procedure call is being made.
 
-    Note: In VB6, using Call requires that arguments be enclosed in parentheses. If you don't use Call, parentheses are only required if a return value is expected.
+*Note: In VB6, using Call requires that arguments be enclosed in parentheses. If you don't use Call, parentheses are only required if a return value is expected.*
 
 #### Parameters
 
