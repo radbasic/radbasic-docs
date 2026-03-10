@@ -18,6 +18,9 @@ plugins:
    - awesome-nav
 nav:
   - Home: index.md
+  - Getting Started:
+    - What is RAD Basic?: getting-started/what-is-rad-basic.md
+    - Patreon Subscription and Download: getting-started/patreon-and-download.md
   - Language Reference: language-reference
   - Resources: resources
   - Support: support
