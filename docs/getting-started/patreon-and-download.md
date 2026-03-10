@@ -1,6 +1,6 @@
 # Patreon Subscription and Download
 
-RAD Basic is developed independently, in the creator's spare time. The project is funded through Patreon. A Patreon subscription is required to download and use RAD Basic.
+RAD Basic is developed by the RAD Basic Team and funded through Patreon. A Patreon subscription is required to download and use RAD Basic.
 
 ---
 
