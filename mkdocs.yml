@@ -11,6 +11,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.indexes
     - search.suggest
     - content.code.copy
 plugins:
@@ -18,12 +19,13 @@ plugins:
    - awesome-nav
 nav:
   - Home: index.md
-  - Getting Started:
-    - What is RAD Basic?: getting-started/what-is-rad-basic.md
-    - Patreon Subscription and Download: getting-started/patreon-and-download.md
+  - Getting Started: getting-started
   - Language Reference: language-reference
   - Resources: resources
   - Support: support
+markdown_extensions:
+  - attr_list
+  - md_in_html
 copyright: "RAD Basic Team 2019-2026. All Rights Reserved. Visual Basic (VB) is a trademark of the Microsoft Corporation"
 extra:
   generator: false
