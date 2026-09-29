@@ -1,4 +1,6 @@
 ## Release Notes
+[RAD Basic 0.12.0 Pre-Beta 12](rad-basic-0.12.0/) (Sep 30, 2026)
+
 [RAD Basic 0.11.0 Pre-Beta 11](rad-basic-0.11.0/) (May 31, 2026)
 
 [RAD Basic 0.10.0 Pre-Beta 10](rad-basic-0.10.0/) (June 30, 2025)
